@@ -1,0 +1,257 @@
+[
+    {
+        "name": "Product 1",
+        "price": 45,
+        "description": "This is a description for Product 1.",
+        "ratings": 4,
+        "images": [
+            {
+                "public_id": "public_id_1",
+                "url": "http://example.com/path/to/image_1.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "ebay",
+        "stock": 12,
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "Product 2",
+        "price": 46,
+        "description": "This is a description for Product 2.",
+        "ratings": 4,
+        "images": [
+            {
+                "public_id": "public_id_2",
+                "url": "http://example.com/path/to/image_2.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "ebay",
+        "stock": 12,
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "Product 3",
+        "price": 96,
+        "description": "This is a description for Product 3.",
+        "ratings": 4,
+        "images": [
+            {
+                "public_id": "public_id_3",
+                "url": "http://example.com/path/to/image_3.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "ebay",
+        "stock": 12,
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "Product 4",
+        "price": 85,
+        "description": "This is a description for Product 4.",
+        "ratings": 4,
+        "images": [
+            {
+                "public_id": "public_id_4",
+                "url": "http://example.com/path/to/image_4.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "ebay",
+        "stock": 12,
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "Product 5",
+        "price": 75,
+        "description": "This is a description for Product 5.",
+        "ratings": 4,
+        "images": [
+            {
+                "public_id": "public_id_5",
+                "url": "http://example.com/path/to/image_5.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "ebay",
+        "stock": 12,
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "Product 6",
+        "price": 65,
+        "description": "This is a description for Product 6.",
+        "ratings": 4,
+        "images": [
+            {
+                "public_id": "public_id_6",
+                "url": "http://example.com/path/to/image_6.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "ebay",
+        "stock": 12,
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "Product 7",
+        "price": 55,
+        "description": "This is a description for Product 7.",
+        "ratings": 4,
+        "images": [
+            {
+                "public_id": "public_id_7",
+                "url": "http://example.com/path/to/image_7.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "ebay",
+        "stock": 12,
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "Product 8",
+        "price": 45,
+        "description": "This is a description for Product 8.",
+        "ratings": 4,
+        "images": [
+            {
+                "public_id": "public_id_8",
+                "url": "http://example.com/path/to/image_8.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "ebay",
+        "stock": 12,
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "Product 9",
+        "price": 35,
+        "description": "This is a description for Product 9.",
+        "ratings": 4,
+        "images": [
+            {
+                "public_id": "public_id_9",
+                "url": "http://example.com/path/to/image_9.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "ebay",
+        "stock": 12,
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "Product 10",
+        "price": 25,
+        "description": "This is a description for Product 10.",
+        "ratings": 4,
+        "images": [
+            {
+                "public_id": "public_id_10",
+                "url": "http://example.com/path/to/image_10.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "ebay",
+        "stock": 12,
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "Product 11",
+        "price": 15,
+        "description": "This is a description for Product 11.",
+        "ratings": 4,
+        "images": [
+            {
+                "public_id": "public_id_11",
+                "url": "http://example.com/path/to/image_11.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "ebay",
+        "stock": 12,
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "Product 12",
+        "price": 5,
+        "description": "This is a description for Product 12.",
+        "ratings": 4,
+        "images": [
+            {
+                "public_id": "public_id_12",
+                "url": "http://example.com/path/to/image_12.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "ebay",
+        "stock": 12,
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "Product 13",
+        "price": 95,
+        "description": "This is a description for Product 13.",
+        "ratings": 4,
+        "images": [
+            {
+                "public_id": "public_id_13",
+                "url": "http://example.com/path/to/image_13.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "ebay",
+        "stock": 12,
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "Product 14",
+        "price": 85,
+        "description": "This is a description for Product 14.",
+        "ratings": 4,
+        "images": [
+            {
+                "public_id": "public_id_14",
+                "url": "http://example.com/path/to/image_14.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "ebay",
+        "stock": 12,
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "Product 15",
+        "price": 75,
+        "description": "This is a description for Product 15.",
+        "ratings": 4,
+        "images": [
+            {
+                "public_id": "public_id_15",
+                "url": "http://example.com/path/to/image_15.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "ebay",
+        "stock": 12,
+        "numOfReviews": 6,
+        "reviews": []
+    }
+]
