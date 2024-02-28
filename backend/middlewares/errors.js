@@ -1,3 +1,4 @@
+const { JsonWebTokenError } = require('jsonwebtoken');
 const ErrorHandler = require('../utils/errorHandler');
 
 module.exports = function(err, req, res, next) {
@@ -30,6 +31,24 @@ module.exports = function(err, req, res, next) {
             err = new ErrorHandler(message, 400);
         }
 
+
+        //handelimg Mongood duplication error
+        if(err.code === 11000){
+            const message = `duplicate ${Object.keys(err.keyvalue)} entered`
+            error = new ErrorHandler(message, 400);
+        }
+
+        //handling wrong JWT error
+        if(err.name === 'JsonWebTokenError'){
+            const message = 'JSON WEB token is expired'
+            error = new ErrorHandler(message, 400);
+        }
+
+        //handling expired JWT error
+        if(err.name === 'TokenExpiredError'){
+            const message = 'JSON WEB token is invalid. try again later'
+            error = new ErrorHandler(message, 400);
+        }
 
         res.status(error.statusCode).json({
             success: false,
